@@ -1,0 +1,2 @@
+# schoolAdmin
+School Management System
